@@ -1,0 +1,6 @@
+link folder deployment
+https://drive.google.com/drive/folders/1Obe3Tw6wxl6y9RDSY5EzPMTTCrq8QjgZ?usp=share_link
+link deployment
+https://huggingface.co/spaces/nurulizzah/deployment_3
+link dataset
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
